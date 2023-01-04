@@ -1,9 +1,10 @@
-
 import './App.css';
+import Main from './main/Main';
+
 
 function App() {
   return (
-    <h1>я смогу</h1>
+    <Main/>
   );
 }
 
